@@ -5,16 +5,16 @@
 <li>🌱 J'ai terminé la formation comme Desingner Web en juin 2023 et présentement, je suis la formation en AEC développeur Web Front-End.</li>
 <li>💞️ Le monde du Web est toujours en constante évolution et pour cela je cherche toujours à me perfectionner.</li> 
 <li>📫 Vous pouvez me joindre par courriel à: carmen.ferlatte@cfweb.ca</li>
-<li>😄 Et oui, mon prénom est bien Carmen !</li> 
+<li>😄 Eh oui, mon prénom est bien Carmen !</li> 
 </ul>
 
-<h3>En dehors de faire des sites Web 🌍, mes autres passions:</h3>
+<h3>Mes autres passions qutres que de faire des sites Web 🌍:</h3>
 
 <ul>
-<li>⚡ Les animaux,🐕‍🦺 j'ai (j'avais) 2 chiens dont un Berger de Shetland qui est parti au paradis des chiens, mais qui était mon compagnon de planche à pagaie 🏄‍♀️, de marche 🐕‍🦺🚶‍♀️, de course à pied 🏃‍♀️,  et j'ai un Boarder Colley 🐶qui me tient compagnie lorsque je fais de la programmation👩‍💻 et aussi pendant mes formations en ligne.</li>
+<li>J'aime les animaux , j'ai (j'avais) 2 chiens 🐕‍🦺 🐕 dont un Berger de Shetland qui est parti au paradis 🪽 des chiens, mais qui était mon compagnon de planche à pagaie 🏄‍♀️, de marche 🐕‍🦺🚶‍♀️, de course à pied 🏃‍♀️,  et j'ai un Boarder Colley 🐶 qui me tient compagnie lorsque je fais de la programmation👩‍💻 et aussi pendant mes formations en ligne.</li>
 <li>De plus j'aime aussi les plantes 🪴🌱🌵  , disons que j'en ai plusieurs et elles profitent beaucoup.</li>
 <li>Le plus important, est de bercer mes petits enfants 👶. </li>
-<li>La lecture, présentement je suis en train de lire le livre d'Ellon Musk 📖, et je trouve que cet homme à un parcours de vie intéressant et à la fois qui sort vraiment de l'ordinaire. Il est de ceux qui ont un objectif et ne s'arrête pas tant qu'ils ne sont pas rendus en haut de la montagne. Vraiment impressionnant, je recommande!</li>
+<li>La lecture, présentement je suis en train de lire le livre de l'hisoire d'Ellon Musk 📖 , et je trouve que cet homme à un parcours de vie intéressant et à la fois qui sort vraiment de l'ordinaire. Il est de ceux qui ont un objectif et ne s'arrête pas tant qu'ils ne sont pas rendus en haut de la montagne. Vraiment impressionnant, je recommande!</li>
 </ul>
 
 <h3>Mes sports favoris:</h3>
