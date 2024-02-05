@@ -8,25 +8,25 @@
 <li>😄 Et oui, mon prénom est bien Carmen !</li> 
 </ul>
 
-<h3>En dehors de faire des sites Web, mes autres passion:</h3>
+<h3>En dehors de faire des sites Web 🌍, mes autres passions:</h3>
 
 <ul>
-<li>⚡ Les animaux,🐕‍🦺 j'ai (j'avais) 2 chiens dont un Berger de Shetland qui est parti au paradis des chiens, mais qui était mon compagnon de paddle board 🏄‍♀️, de marche 🐕‍🦺🚶‍♀️, de course à pieds 🏃‍♀️,  et j'ai un Boarder Colley 🐶qui me tient compagnie lorsque je fais de la programmation👩‍💻et aussi pendant mes formations en ligne.</li>
-<li>De plus j'aime aussi les plantes, disons que j'en ai plusieurs et elles profites beaucoup.</li>
-<li>Le plus important, est de bercer mes petits enfants. </li>
-<li>La lecture, présentement je suis entrain de lire le livre d'Ellon Musk, et son histoire est vraiment épatante. Cet homme à tout un parcours. Je remmande!</li>
+<li>⚡ Les animaux,🐕‍🦺 j'ai (j'avais) 2 chiens dont un Berger de Shetland qui est parti au paradis des chiens, mais qui était mon compagnon de planche à pagaie 🏄‍♀️, de marche 🐕‍🦺🚶‍♀️, de course à pied 🏃‍♀️,  et j'ai un Boarder Colley 🐶qui me tient compagnie lorsque je fais de la programmation👩‍💻 et aussi pendant mes formations en ligne.</li>
+<li>De plus j'aime aussi les plantes 🪴🌱🌵  , disons que j'en ai plusieurs et elles profitent beaucoup.</li>
+<li>Le plus important, est de bercer mes petits enfants 👶. </li>
+<li>La lecture, présentement je suis en train de lire le livre d'Ellon Musk 📖, et je trouve que cet homme à un parcours de vie intéressant et à la fois qui sort vraiment de l'ordinaire. Il est de ceux qui ont un objectif et ne s'arrête pas tant qu'ils ne sont pas rendus en haut de la montagne. Vraiment impressionnant, je recommande!</li>
 </ul>
 
 <h3>Mes sports favoris:</h3>
 <ul>
-<li>⛷️ Je suis moniteur-entraîneur en ski alpin, donc j'aime faire du ski alpin et de transmettre ma passion aux adeptes de ce magnifique sport d'hiver, j'aime aussi faire du vélo 🚴‍♀️, du paddle board 🏄‍♀️, marcher et courrir.</li>
+<li>⛷️ Je suis moniteur-entraîneur en ski alpin, donc j'aime faire du ski alpin et de transmettre ma passion aux adeptes de ce magnifique sport d'hiver, le vélo🚴‍♀️, entraînement🏄‍♀️ et bien sûr la planche à pagaie qui permet de voir de près les phoques qui sortent leurs bout du nez pour vous faire un coucou 🦭👀.</li>
 <li>🏃‍♀️ Mais pour l'instant mes sports sont comme mis de côté pour investir plus de temps dans l'apprentissage de la programmation. Mais cela ne veut pas dire que je n'y me remettrai pas 😂 !</li>
 </ul>
 <p></p>
   
 <h3>Mes goûts pour la musique:</h3>
 <ul>
-<li>🎵🎧La musique est ce qui me donne le rytmne que ce soit entraînement sportif, un souper, préparation mentale, et même pour la concentration. Que ce soit du rock-&-roll, rock classique, jazz, blues, classique, pop et sans oublié du québécois dont j'aime bien les auteurs qui ont une histoire à raconter au travaers de leurs chansons.</li>
+<li>🎵🎧La musique est ce qui me donne le rytmne que ce soit entraînement sportif, un souper, préparation mentale, et même pour la concentration. Que ce soit du rock-&-roll, rock classique, jazz, blues, classique, pop et sans oublié du québécois dont j'aime bien les auteurs qui ont une histoire à raconter au travers de leurs chansons.</li>
 </ul>
 <p></p>
   
