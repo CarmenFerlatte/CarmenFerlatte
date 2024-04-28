@@ -11,9 +11,9 @@
 <h3>Mes autres passions autres que de faire des sites Web 🌍:</h3>
 
 <ul>
-<li>J'aime les animaux , j'ai (j'avais) 2 chiens 🐕‍🦺 🐕 dont un Berger de Shetland qui est parti au paradis 🪽 des chiens, mais qui était mon compagnon de planche à pagaie 🏄‍♀️, de marche 🐕‍🦺🚶‍♀️, de course à pied 🏃‍♀️,  et j'ai un Boarder Colley 🐶 qui me tient compagnie lorsque je fais de la programmation👩‍💻 et aussi pendant mes formations en ligne.</li>
+<li>J'aime les animaux , j'ai (j'avais) 2 chiens 🐕‍🦺 🐕 dont un Berger de Shetland qui est parti au paradis 🪽 des pitous, mais qui était mon compagnon de planche à pagaie 🏄‍♀️, de marche 🐕‍🦺🚶‍♀️, de course à pied 🏃‍♀️,  et j'ai un Boarder Colley 🐶 qui me tient compagnie lorsque je fais de la programmation👩‍💻 et aussi pendant mes formations en ligne.</li>
 <li>De plus j'aime aussi les plantes 🪴🌱🌵  , disons que j'en ai plusieurs et elles profitent beaucoup.</li>
-<li>Le plus important, est de bercer mes petits enfants 👶. </li>
+<li>Cela sans oublier le plaisir de bercer mes petits enfants 👶. </li>
 <li>La lecture, présentement je suis en train de lire le livre de l'histoire d'Ellon Musk 📖 , et je trouve que cet homme à un parcours de vie intéressant et à la fois qui sort vraiment de l'ordinaire. Il est de ceux qui ont un objectif et ne s'arrête pas tant qu'ils ne sont pas rendus en haut de la montagne. Vraiment impressionnant, je recommande!</li>
 </ul>
 
