@@ -34,7 +34,7 @@
 
 <h3 align="left">Se connecter avec moi:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carmenferlatte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carmenferlatte" height="30" width="40"></a>
+<a href="https://linkedin.com/in/carmenferlatte-33117755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carmenferlatte" height="30" width="40"></a>
 <a href="https://fb.com/cfweb.ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cfweb.ca" height="30" width="40"></a>
 <a href="https://www.instagram.com/carmenferlatte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Carmen Ferlatte" height="30" width="40"></a>
 <a href="https://www.youtube.com/c/cfweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cfweb" height="30" width="40"></a>
