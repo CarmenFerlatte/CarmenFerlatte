@@ -1,8 +1,8 @@
 <h3>Qui je suis !</h3>
 <ul>
-<li>👋 Bonjour, je suis @CarmenFerlatte, Designer Web, Intégrateur d'interfaces Web et en formation en tant que développeur Web Front-End.</li> 
+<li>👋 Bonjour, je suis @CarmenFerlatte, Designer Web et développeur Web Front-End.</li> 
 <li>👀 Je suis une passionnée dans tout ce que j'entreprends et j'aime beaucoup créer, aider les gens, faire du design web, programmer et laisser ma créativité suivre le flot des vagues.</li>
-<li>🌱 J'ai terminé la formation comme Designer Web en juin 2023 et présentement, je suis la formation de Développeur Web Front-End.</li>
+<li>🌱 J'ai terminé la formation comme Designer Web en juin 2023 et l'AEC Développeur Web Front-End juin 2025.</li>
 <li>💞️ Le monde du Web est toujours en constante évolution et c'est pour cettre raison que j'aime prendre le temps de me perfectionner.</li> 
 <li>📫 Vous pouvez me joindre par courriel à: carmen.ferlatte@cfweb.ca</li>
 <li>😄 Eh oui, mon prénom est bien Carmen !</li> 
